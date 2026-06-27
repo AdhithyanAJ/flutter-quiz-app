@@ -15,7 +15,7 @@ A simple and interactive quiz application built using **Flutter** and **Dart**. 
 
 Watch the app in action here:
 
-**➡️ [Demo Video](media/WhatsApp Video 2026-06-27 at 10.58.35 AM.mp4)**
+**➡️ [Demo Video](media)**
 
 ## 🛠️ Built With
 
